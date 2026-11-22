@@ -1,0 +1,14 @@
+scipy>=1.10.1
+fiona
+shapely
+pydantic>=2.0
+matplotlib>=3.5
+openseespy>=3.2.2.6
+opsvis>=1.0
+xarray
+
+[dev]
+pytest>=6.2.2
+
+[test]
+pytest>=6.2.2

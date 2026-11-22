@@ -1,0 +1,3 @@
+[console_scripts]
+osdagbridge = osdagbridge.desktop.__main__:main
+osdagbridge-cli = osdagbridge.cli.__main__:main
